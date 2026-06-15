@@ -1,40 +1,63 @@
-<h2 align="left">Opa! Meu nome é Gabriel!</h2>
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/35882668?v=4"  />
+# Gabriel Peres Magni
 
-###
+Software Developer focado em aplicações web, APIs e sistemas corporativos.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-</div>
+## Atualmente
 
-###
+* Desenvolvedor de Software
+* Contribuindo em sistemas de telecomunicações, ERP e plataformas SaaS
+* Desenvolvendo soluções com TypeScript, NestJS, Express, React e PostgreSQL
+* Atuando com arquitetura de APIs, integrações e infraestrutura Docker
 
-<div align="left">
+## Principais Tecnologias
+
+### Backend
+
+* TypeScript
+* Node.js
+* NestJS
+* Express
+
+### Frontend
+
+* React
+* Next.js
+* TypeScript
+
+### Banco de Dados
+
+* PostgreSQL
+* MySQL
+
+### DevOps & Ferramentas
+
+* Docker
+* Linux
+
+## O que faço
+
+* Desenvolvimento de APIs REST
+* Sistemas corporativos
+* Integrações entre plataformas
+* Aplicações web full stack
+* Arquitetura e manutenção de sistemas escaláveis
+
+---
+
+Sempre aberto para trocar ideias sobre desenvolvimento de software, arquitetura de sistemas e novas tecnologias.
+
+## Conecte-se comigo
+
+<p align="left">
   <a href="https://www.linkedin.com/in/gabriel-peres-magni/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Magni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+
+  <a href="https://gpmagni.dev.br" target="_blank">
+    <img src="https://img.shields.io/badge/Website-gpmagni.dev.br-121212?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="mailto:me@gpmagni.dev.br">
+    <img src="https://img.shields.io/badge/Email-me%40gpmagni.dev.br-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
