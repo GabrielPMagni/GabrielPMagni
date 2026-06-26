@@ -1,3 +1,7 @@
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 10px;"> <img src="https://github-readme-stats-umber-nine-11.vercel.app/api?username=GabrielPMagni&theme=nightowl&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+
+<img src="https://github-readme-stats-umber-nine-11.vercel.app/api/top-langs/?username=GabrielPMagni&theme=nightowl&show_icons=true&hide_border=true&layout=compact" alt="Linguagens mais utilizadas" />
+
 # Gabriel Peres Magni
 
 Software Developer focado em aplicações web, APIs e sistemas corporativos.
